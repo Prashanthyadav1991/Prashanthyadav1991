@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prashanthyadav1991
 - 👀 I’m interested in ...python , android studio 
 - 🌱 I’m currently learning ...java, c#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Custom roms for poco f1 and android applications
 - 📫 How to reach me ...djasg00@gmail.com
 
 <!---
